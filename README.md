@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rudranil Mallick
 ### 🚀 A passionate Web Developer from INDIA
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Rudranil+Mallick;Web+Developer;Ui;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Rudranil+Mallick;Web+Developer;Ui+UXDesigner+;" alt="Typing SVG" /></a>
 </p>
 ---
 
