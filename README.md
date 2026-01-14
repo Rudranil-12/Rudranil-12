@@ -19,11 +19,11 @@
 
 ---
 ## 🔹 About Me
-🎓 Third-year Computer Science and Business Systems Student
-🤝 Always open to collaborations on real-world projects
-🌱 I’m currently learning **React.JS and Data Structures & Algorithms**
-💬 Ask me anything about **Web Development**
-📫 Reach me at: **rudranilmallick38@gmail.com**
+- 🎓 Third-year Computer Science and Business Systems Student
+- 🤝 Always open to collaborations on real-world projects
+- 🌱 I’m currently learning **React.JS and Data Structures & Algorithms**
+- 💬 Ask me anything about **Web Development**
+- 📫 Reach me at: **rudranilmallick38@gmail.com**
 
 
 ## 🔹 Languages and Tools
