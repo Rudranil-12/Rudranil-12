@@ -9,9 +9,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="300"/>
 </p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
 
 
 ---
@@ -39,18 +36,19 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-
 ---
-
 
 ## 🔹 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudranil-mallick-226a0b328/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudranil_mallick/)
 
 
+---
 
+![snake gif](https://github.com/Rudranil-12/Rudranil-12/blob/main/github-snake-dark.svg)
 
 ---
 
-
-![snake gif](https://github.com/Rudranil-12/Rudranil-12/blob/main/github-snake-dark.svg)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
