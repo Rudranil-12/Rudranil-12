@@ -6,9 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Rudranil+Mallick;Web+Developer;UI+/+UX+Designer+;" alt="Typing SVG" /></a>
 </p
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=420&lines=const+developer+%3D+%22Rudranil%22%3B" />
-</p>
 
 
 
