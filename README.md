@@ -6,6 +6,30 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Rudranil+Mallick;Web+Developer;UI+/+UX+Designer+;" alt="Typing SVG" /></a>
 </p
 
+<p align="center">
+  <svg width="100%" height="8" viewBox="0 0 1000 8" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="glow" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="transparent"/>
+        <stop offset="45%" stop-color="#ff2a2a"/>
+        <stop offset="55%" stop-color="#ff6a00"/>
+        <stop offset="100%" stop-color="transparent"/>
+      </linearGradient>
+    </defs>
+
+    <rect x="0" y="3" width="1000" height="2" fill="url(#glow)">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-1000 0"
+        to="1000 0"
+        dur="2.5s"
+        repeatCount="indefinite" />
+    </rect>
+  </svg>
+</p>
+
+
 
 
 
