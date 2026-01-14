@@ -6,7 +6,6 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="300"/>
 </p>
