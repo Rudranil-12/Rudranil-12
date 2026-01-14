@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rudranil%20Mallick&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Frontrnd%20Developer%20" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rudranil%20Mallick&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Frontend%20Developer%20" width="100%" alt="Header" />
 </div>
 ### 🚀 A passionate Web Developer from INDIA
 <p align="center">
