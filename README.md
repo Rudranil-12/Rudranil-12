@@ -6,6 +6,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Rudranil+Mallick;Web+Developer;UI+/+UX+Designer+;" alt="Typing SVG" /></a>
 </p
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding animation"/>
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <p align="center">
