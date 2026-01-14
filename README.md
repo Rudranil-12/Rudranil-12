@@ -4,6 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Rudranil+Mallick;Web+Developer;UI+/+UX+Designer+;" alt="Typing SVG" /></a>
 </p>
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+
 
 ## 🔹 About Me
 - 🌱 I’m currently learning **React.JS**
