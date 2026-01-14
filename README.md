@@ -37,3 +37,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudranil-mallick-226a0b328/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/YourUsername](https://www.instagram.com/rudranil_mallick/))
 
+
+
+---
+
+
+![snake gif](https://github.com/anindya-mukhopadhyay/anindya-mukhopadhyay/blob/output/github-snake-dark.svg)
