@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rudranil%20Mallick&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Frontend%20Developer%20" width="100%" alt="Header" />
 </div>
-### 🚀 A passionate Web Developer from INDIA
+🚀 A passionate Web Developer from INDIA
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Rudranil+Mallick;Web+Developer;UI+/+UX+Designer+;" alt="Typing SVG" /></a>
 </p>
