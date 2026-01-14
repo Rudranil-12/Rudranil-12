@@ -7,8 +7,9 @@
 </p
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Developer;Frontend+Engineer;React+Enthusiast" />
 </p>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
