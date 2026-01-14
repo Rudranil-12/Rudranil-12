@@ -42,4 +42,4 @@
 ---
 
 
-![snake gif](https://github.com/Rudranil-12/Rudranil-12/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Rudranil-12/Rudranil-12/blob/main/github-snake-dark.svg)
