@@ -4,23 +4,23 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Rudranil+Mallick;Web+Developer;UI+/+UX+Designer+;" alt="Typing SVG" /></a>
-</p
-
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="300"/>
 </p>
 
-
 ---
+
 ## 🔹 About Me
-- 🎓 Fourth-year Computer Science and Business Systems Student
+- 🎓 Fourth-year Computer Science and Business Systems Student at Techno International New Town
 - 🤝 Always open to collaborations on real-world projects
 - 🌱 I’m currently learning **React.JS and Data Structures & Algorithms**
 - 💬 Ask me anything about **Web Development**
 - 📫 Reach me at: **rudranilmallick38@gmail.com**
 
+---
 
 ## 🔹 Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,6 +39,31 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
+
+## 💻 Featured Projects
+
+### 🛠️ Circuit-Home & Jibon (Active Production)
+* Advanced web applications focused on clean architecture, performance optimization, and modular state management.
+* *Tech Stack:* React.js, TailwindCSS, Node.js
+
+### 🎠 Animated Product Carousel
+* An e-commerce styled interactive item carousel showcasing micro-interactions, layout transitions, and high-fidelity UI design.
+* *Tech Stack:* HTML5, CSS3, JavaScript
+
+### 📝 Dynamic 3D To-Do App
+* A production-ready task management dashboard breaking away from traditional flat lists by leveraging custom 3D transformations.
+* *Tech Stack:* HTML5, CSS3, JavaScript
+
+### 🌤️ Real-Time Weather Application
+* A fully responsive frontend module fetching immediate environmental analytics via the OpenWeatherMap API interface.
+* *Tech Stack:* JavaScript, CSS, REST API
+
+---
+
+## 📊 GitHub Metrics & Learning Resources
+* **OOPS-in-CPP:** A structured public resource library containing intermediate to advanced Object-Oriented Programming references.
+* **JavaScript-Programming:** Comprehensive script patterns mapping modern core development capabilities from base fundamentals up.
 
 ---
 
@@ -46,20 +71,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudranil-mallick-226a0b328/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudranil_mallick/)
 
-
 ---
 
-![snake gif](https://github.com/Rudranil-12/Rudranil-12/blob/main/github-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/Rudranil-12/Rudranil-12/blob/main/github-snake-dark.svg" alt="snake gif" />
 
----
+  ---
 
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
 
----
+  ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
   
   **Thanks for visiting! ⭐ Star my repos if you find them interesting!**
 </div>
